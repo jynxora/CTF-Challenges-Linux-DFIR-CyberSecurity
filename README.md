@@ -122,4 +122,5 @@ Special thanks to the cybersecurity community for inspiration and the open-sourc
 
 
 #700DaysOfSkill
-###Last Updated: 10 July, 2025
+
+### Last Updated: 10 July, 2025
