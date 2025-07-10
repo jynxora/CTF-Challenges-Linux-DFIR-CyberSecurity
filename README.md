@@ -61,7 +61,7 @@ Practical experience with real-world scenarios
 |--------|-------|----------|
 | 1 | CTF Challenge-1 | [CTF-1](https://github.com/jynxora/dfir-ctf-lite-challenges) 
 | 2 | CTF Challenge-2 | [CTF-2](https://github.com/jynxora/linux-command-forensics-ctf-challenges) |
-| 3 | Analyzing and Managing Networks | [CTF-3](./Challenge-3) |
+| 3 | CTF Challenge-3 | [CTF-3](./Challenge-3) |
 
 ### 🔄 Future Challenges (Coming Soon)
 This collection will continuously expand with new challenges covering:
