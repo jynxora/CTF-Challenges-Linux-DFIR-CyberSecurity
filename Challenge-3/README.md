@@ -1,6 +1,6 @@
 # 🛡️ Linux CTF Challenge 3 – Advanced Forensic Analysis
 
-A handcrafted, booby-trapped Linux-based capture-the-flag (CTF) environment. Created as part of the #700DaysOfSkill learning marathon by Jinay Shah a.k.a `jynx`.
+A handcrafted, booby-trapped Linux-based capture-the-flag (CTF) environment. Created as part of the #700DaysOfSkill learning marathon by Jynx.
 
 ## 📁 Challenge Contents
 
