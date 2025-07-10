@@ -1,8 +1,8 @@
-🔍 CTF Collection - Digital Forensics & Incident Response
+#🔍 CTF Collection - Digital Forensics & Incident Response
 Welcome to my comprehensive collection of Capture The Flag (CTF) challenges focused on cybersecurity, digital forensics, and incident response. 
 This repository contains practical exercises designed to enhance understanding of Linux security, file permissions, system administration, and threat detection.
 
-Overview
+###Overview
 This collection features hands-on challenges that simulate real-world scenarios encountered in:
 
 Digital Forensics & Incident Response (DFIR)
@@ -23,7 +23,7 @@ Security Auditing
 
 ---
 
-🚀 Getting Started
+###🚀 Getting Started
 Prerequisites
 Linux environment (Ubuntu, CentOS, Kali Linux, etc.)
 Basic command-line proficiency
@@ -36,7 +36,7 @@ Navigate to the challenge folder
 Follow the specific challenge instructions
 Document your findings and solutions
 
-🛡️ Security Assessment Checklist
+###🛡️ Security Assessment Checklist
 
  Identify SUID/SGID binaries
  Check for world-writable files
@@ -45,7 +45,7 @@ Document your findings and solutions
  Verify file integrity and timestamps
  Search for suspicious content patterns
 
-🎓 Learning Outcomes
+###🎓 Learning Outcomes
 After completing these challenges, you will have:
 
 Enhanced Linux proficiency with advanced command usage
@@ -54,14 +54,19 @@ Analytical skills for digital forensics
 Problem-solving abilities in cybersecurity contexts
 Practical experience with real-world scenarios
 
-🔄 Future Challenges (Coming Soon)
+###🔄 Future Challenges (Coming Soon)
 This collection will continuously expand with new challenges covering:
 
 Network Security - Packet analysis and intrusion detection
+
 Web Application Security - SQL injection, XSS, and authentication bypasses
+
 Cryptography - Encryption, hashing, and key management
+
 Memory Forensics - RAM analysis and malware detection
+
 Cloud Security - AWS/Azure security configurations
+
 Incident Response - Log analysis and threat hunting
 
 ---
@@ -74,7 +79,7 @@ Security implications and real-world context
 Best practices and remediation strategies
 Extended learning resources and references
 
-🤝 Contributing
+###🤝 Contributing
 This is a personal learning repository, but feedback and suggestions are welcome:
 
 Report issues or improvements
@@ -82,7 +87,7 @@ Suggest new challenge ideas
 Share alternative solutions
 Contribute to documentation
 
-📚 Additional Resources
+###📚 Additional Resources
 Recommended Reading: 
 
 📂 [DFIR CTF Series](https://github.com/jynxora/dfir-ctf-lite-challenges)  
@@ -100,12 +105,12 @@ Recommended Reading:
 
 ---
 
-📄 License
+###📄 License
 This collection is created for educational purposes. All challenges are original work designed to enhance cybersecurity learning and practical skills development.
-🏆 Acknowledgments
+###🏆 Acknowledgments
 Special thanks to the cybersecurity community for inspiration and the open-source tools that make these challenges possible.
 
 
 
 #700DaysOfSkill
-Last Updated: 10 July, 2025
+###Last Updated: 10 July, 2025
