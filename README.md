@@ -58,7 +58,7 @@ Practical experience with real-world scenarios
 
 
 | Chapter | Title | Link | PDF Report | Challenge [DIY] |
-|--------|-------|----------|------|--------|
+|--------|-------|----------|---|--------|
 | 1 | CTF Challenge-1 | [CTF-1](https://github.com/jynxora/dfir-ctf-lite-challenges) | [PDF](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/CTF-Lite.pdf) | [Setup Challenge](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/challenge.md) |
 | 2 | CTF Challenge-2 | [CTF-2](https://github.com/jynxora/linux-command-forensics-ctf-challenges) | [PDF](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/CTF-Lite.pdf) | [Setup Challenge](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/challenge.md) |
 | 3 | CTF Challenge-3 | [CTF-3](./Challenge-3) | [PDF](https://github.com/jynxora/linux-command-forensics-ctf-challenges/blob/main/Documentation/LinuxCommandsFlagTest.pdf) | [Setup Challenge](https://github.com/jynxora/linux-command-forensics-ctf-challenges/blob/main/Set-up%20Challenge/Challenge.md) |
