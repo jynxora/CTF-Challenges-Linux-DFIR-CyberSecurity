@@ -1,4 +1,4 @@
-CTF Collection - Digital Forensics & Incident Response
+🔍 CTF Collection - Digital Forensics & Incident Response
 Welcome to my comprehensive collection of Capture The Flag (CTF) challenges focused on cybersecurity, digital forensics, and incident response. 
 This repository contains practical exercises designed to enhance understanding of Linux security, file permissions, system administration, and threat detection.
 
@@ -12,6 +12,9 @@ Security Auditing
 -> You can extract [copy-paste] Challenge Questions and perform for yourselves.
 -> Read how I did it and documented it.
 -> Share your documention and kick-start your journey in DFIR | Cybersecurity
+
+---
+
 🚀 Getting Started
 Prerequisites
 Linux environment (Ubuntu, CentOS, Kali Linux, etc.)
@@ -25,7 +28,7 @@ Navigate to the challenge folder
 Follow the specific challenge instructions
 Document your findings and solutions
 
-Security Assessment Checklist
+🛡️ Security Assessment Checklist
 
  Identify SUID/SGID binaries
  Check for world-writable files
@@ -53,7 +56,8 @@ Memory Forensics - RAM analysis and malware detection
 Cloud Security - AWS/Azure security configurations
 Incident Response - Log analysis and threat hunting
 
-📝 Documentation Standards
+---
+
 Each challenge includes:
 
 Clear objectives and learning goals
@@ -78,10 +82,22 @@ Recommended Reading:
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 🧪 [Memory Forensic Report](https://github.com/jynxora/Memory-Forensics)
 
+---
+
+## 🌐 Connect or Collaborate
+
+📌 [X / Twitter](https://x.com/JynxZero)  
+📌 [LinkedIn](https://www.linkedin.com/in/jynxora)  
+📌 [Medium](https://medium.com/@jynxora)
+
+---
+
 📄 License
 This collection is created for educational purposes. All challenges are original work designed to enhance cybersecurity learning and practical skills development.
 🏆 Acknowledgments
 Special thanks to the cybersecurity community for inspiration and the open-source tools that make these challenges possible.
 
+
+
 #700DaysOfSkill
-Last Updated: July 2025
+Last Updated: 10 July, 2025
