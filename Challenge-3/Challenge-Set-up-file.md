@@ -25,5 +25,4 @@ Want to replicate this CTF environment on your local Linux system?
 
 Copy & paste the following into your terminal:
 
-```bash
-bash <(curl -s https://raw.githubusercontent.com/jynxora//setu.sh)
+bash <(curl -s https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-3/setup.sh)
