@@ -23,7 +23,8 @@ Want to replicate this CTF environment on your local Linux system?
 
 ## 📦 Installation Script
 
-Copy & paste the following into your terminal:
+### Copy & paste the following into your terminal:
+
 
 #!/bin/bash
 
