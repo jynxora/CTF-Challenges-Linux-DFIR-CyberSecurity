@@ -4,13 +4,21 @@ This repository contains practical exercises designed to enhance understanding o
 
 Overview
 This collection features hands-on challenges that simulate real-world scenarios encountered in:
+
 Digital Forensics & Incident Response (DFIR)
+
 Linux System Administration
+
 Cybersecurity Analysis
+
 Penetration Testing
+
 Security Auditing
+
 -> You can extract [copy-paste] Challenge Questions and perform for yourselves.
+
 -> Read how I did it and documented it.
+
 -> Share your documention and kick-start your journey in DFIR | Cybersecurity
 
 ---
