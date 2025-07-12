@@ -99,7 +99,6 @@ Contribute to documentation
 ### 📚 Additional Resources
 Recommended Reading: 
 
-📂 [DFIR CTF Series](https://github.com/jynxora/dfir-ctf-lite-challenges)  
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
 🧪 [Memory Forensic Report](https://github.com/jynxora/Memory-Forensics)
