@@ -63,6 +63,7 @@ Practical experience with real-world scenarios
 | 2 | CTF Challenge-2 | [CTF-2](https://github.com/jynxora/linux-command-forensics-ctf-challenges) | [PDF](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/CTF-Lite.pdf) | [Setup Challenge](https://github.com/jynxora/dfir-ctf-lite-challenges/blob/main/Day-4%20%5BJuly-4%5D/challenge.md) |
 | 3 | CTF Challenge-3 | [CTF-3](./Challenge-3) | [PDF](https://github.com/jynxora/linux-command-forensics-ctf-challenges/blob/main/Documentation/LinuxCommandsFlagTest.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-3/Challenge-Setup-file.md) |
 | 4 | CTF Challenge-4 | [CTF-4](./Challenge-4) | [PDF](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-4/CTF_Challenge4.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-4/Challenge-Setup-File.md) |
+| 5 | CTF Challenge-5 | [CTF-5](./Challenge-5) | [PDF](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-4/CTF_Challenge4.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/blob/main/Challenge-4/Challenge-Setup-File.md) |
 
 ### 🔄 Future Challenges (Coming Soon)
 This collection will continuously expand with new challenges covering:
