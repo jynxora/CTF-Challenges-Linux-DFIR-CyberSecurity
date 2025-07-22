@@ -103,7 +103,7 @@ Recommended Reading:
 
 📘 [Linux Notes for Hackers](https://github.com/jynxora/Linux-Notes-for-Hackers)  
 📎 [IBM Cybersecurity Architecture Notes](https://github.com/jynxora/IBM-cyber-notes)  
-🧪 [Memory Forensic Report](https://github.com/jynxora/Memory-Forensics)
+🧪 [M57 Jean Forensic Investigation](https://github.com/jynxora/M57-Jean-Case-Analysis)
 
 ---
 
