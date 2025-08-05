@@ -66,7 +66,7 @@ Practical experience with real-world scenarios
 | 5 | CTF Challenge-5 | [CTF-5](./Challenge-5) | [PDF](./Challenge-5/CTFChallenge5.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/raw/main/Challenge-5/Set-Up%20Challenge/Operation_Black_Echo_CTF.zip) |
 | 6 | CTF Challenge-6 | [CTF-6](./Challenge-6) | [PDF](./Challenge-6/CTFChallenge6.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/raw/main/Challenge-6/blind_gallery_ctf.zip) |
 | 7 | CTF Challenge-7 | [CTF-7](./Challenge-7) | [PDF](./Challenge-7/CtfChallenge7.pdf) | [Setup Challenge](https://github.com/jynxora/CTF-Challenges-Linux-DFIR-CyberSecurity/raw/main/Challenge-7/signal_in_static_ctf.zip) |
-
+| 8 | CTF Challenge-8 | [CTF-8](./Challenge-8) | [PDF](./Challenge-8/LAB4-CTF.pdf) | [Setup Challenge](https://github.com/stuxnet999/MemLabs/tree/master/Lab%204) |
 ### 🔄 Future Challenges (Coming Soon)
 This collection will continuously expand with new challenges covering:
 
